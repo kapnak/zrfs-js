@@ -1,0 +1,14 @@
+{
+  "name": "zrfs",
+  "version": "1.0.0",
+  "description": "Library to connect to ZRFS servers.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "kapnak",
+  "license": "ISC",
+  "dependencies": {
+    "save-dev": "^0.0.1-security",
+    "zprotocol-js": "github:kapnak/zprotocol-js"
+  }
+}
